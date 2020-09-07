@@ -10,7 +10,7 @@
  
 ## Levels
 
-1. Familar, has completed tutorials or personal projects.
+1. Familiar, has completed tutorials or personal projects.
 2. Completed bugs or small features for professional or popular open source project.
 3. Completed large features with major user impact for professional or popular open source project.
 4. Project lead for a major contributions by a team for professional or popular open source project. 
