@@ -64,3 +64,21 @@ Necessary technical skills vary widely by discipline and company need.
 * Designed to be maintainable.
     * The bus rule. If you were hit by a bus, could another person pick up the project?
 
+## Testing
+
+* Manually tested.
+* Created unit tests.
+* Created and maintained adequate test coverage.
+* Created user story test cases.
+* Created integration tests.
+* Created an environment to match production for testings.
+* Automated testing with every deployment.
+
+## Documentation
+
+* Wrote in code documentation.
+* Wrote outside code documentation.
+* Created flowcharts and diagrams for documentation. 
+* Wrote documentation for different users.
+    * For example, one for engineers, one for users.
+* Wrote tutorials and common usage.

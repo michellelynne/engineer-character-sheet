@@ -2,7 +2,7 @@
 
 Professional skills, sometimes called soft skills, help teams and companies run smoothly and efficiently.
 They are as equal if not more necessary than technical skills. Based on a survey of industry professionals, "Empathy"
-was listed as the number one desired skill of coworkers. For these skills, all of them will have the same level attributes.
+was listed as the number one desired skill of coworkers. 
 
 ## Levels
 
