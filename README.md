@@ -1,4 +1,5 @@
 This project was created to help standardize sets of engineering skills while also pretending my job is exciting as an RPG. 
+This will help you create character sheets (or personas) out of various skills to better hire and support well functioning engineering teams.
 
 # Why did you do this?
 
@@ -41,11 +42,13 @@ Each skill category has sub groups that have specific skills with levels. For ex
 "Programming Language" with 5 possible skills and levels. The person can have skill "Main language used by team almost every day" 
 with level "Completed bugs or small features for professional or popular open source project."
 
-Now you can use them to build your job description and help you interview. Remember these things:
+Now you can use them to build your job description. Remember these things:
 
 * The more skill points you want, the more you have to pay
 * You probably want more skills than exists in a person, so prioritize.
 * Missing skills can be learned and coached. Self-awareness and aptitude for learning can make up for missing skills.
+
+For inspiration, see example [character sheets](https://github.com/michellelynne/engineer-character-sheet/blob/main/examples.md).
 
 ## Interviewing
 
