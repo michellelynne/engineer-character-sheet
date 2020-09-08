@@ -31,9 +31,17 @@ Ask yourself these questions to help you figure out which questions to ask.
     
 ## Designing Character Sheet 
 
-Once you know what your problem areas are, go through the skill sheets. Mix & match skills from all 3 main categories
-(Technical, Professional & Industry) to build your ideal character sheet. Now you can use them to build your job description
-and help you interview. Remember these things:
+Once you know what the problem areas, go through the skill examples. Mix & match skills from all 3 main skill categories to build the ideal character sheet. 
+
+* [Technical](https://github.com/michellelynne/engineer-character-sheet/blob/main/technical.md)
+* [Professional](https://github.com/michellelynne/engineer-character-sheet/blob/main/professional.md)
+* [Industry](https://github.com/michellelynne/engineer-character-sheet/blob/main/industry.md) 
+
+Each skill category has sub groups that have specific skills with levels. For example, under Technical there is a group
+"Programming Language" with 5 possible skills and levels. The person can have skill "Main language used by team almost every day" 
+with level "Completed bugs or small features for professional or popular open source project."
+
+Now you can use them to build your job description and help you interview. Remember these things:
 
 * The more skill points you want, the more you have to pay
 * You probably want more skills than exists in a person, so prioritize.
