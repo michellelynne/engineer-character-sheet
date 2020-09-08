@@ -93,7 +93,7 @@ level of their career. When their skills match a team or company need, they're r
 
 [Submit an issue](https://github.com/michellelynne/engineer-character-sheet/issues) 
 
-[Submit a Pull Request](https://mattstauffer.com/blog/how-to-contribute-to-an-open-source-github-project-using-your-own-fork/).
+[Submit a Pull Request](https://mattstauffer.com/blog/how-to-contribute-to-an-open-source-github-project-using-your-own-fork/)
 
 [Code of Conduct](https://github.com/michellelynne/engineer-character-sheet/blob/main/code-of-conduct.md)
 
