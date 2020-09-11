@@ -12,7 +12,7 @@ It is also helpful to be a part of the technical professional community that cro
 5. Very Frequently
 6. Always
 
-## Industry Knowledge
+## Industry Experience
 
 * Created software for same customers.
 * Created software in same industry.  
